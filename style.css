@@ -1,0 +1,14 @@
+#text {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    width: 30%;
+    height: 10%;
+    margin: 10px;
+}
+
+#myButton {
+    width: 30%;
+    height: 10%;
+    margin: 10px;
+}
